@@ -11,15 +11,7 @@ class Car{
 		string model;
 		string category;
 	public:
-		Car();
-		int getid(); //id accessor function THIS IS ADDITION
-		string getmake(); //make accessor function
-		string getmodel(); //model accessor function
-		string getcat(); //category accessor function
-		void setid(int num); //id setter function
-		void setmake(string manu); //make setter function
-		void setmodel(string mode); //model setter function
-		void setcat(string cate); //category setter function ANOTHER CHANGe
+
 };
 
 //getid
